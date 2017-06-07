@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GeographyQuiz</string>
+    <string name="quiz_kathmandu">Is Kathmandu a beautiful city?</string>
+    <string name="false_button">false</string>
+    <string name="true_button">true</string>
+    <string name="toast_correct">Correct</string>
+    <string name="toast_incorrect">Incorrect</string>
+
+    <!-- Strings for Question -->
+    <string name="quest_ocean">Is Pacific Ocean larger than Atlanic ocean?</string>
+    <string name="quest_asia">Asia is not the Largest Continent.</string>
+    <string name="quest_africa">Is Nile the Largest river?</string>
+    <string name="next_button">Next</string>
+</resources>
